@@ -95,7 +95,7 @@ Prerequisites:
 
 - [Node.js 16 (LTS)](https://nodejs.org/en/download/)
 
-Install dependencies.
+Install dependencies
 
 ```sh
 npm install
