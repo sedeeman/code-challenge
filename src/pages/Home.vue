@@ -62,7 +62,7 @@ export default {
           let x = item.location.trim()
           return { value: x, text: x }
         })
-        // Sort alphabetical by location
+        // Sort alphabetical  oredr by given location list
         .sort(function (a, b) {
           let av = a.value.toLowerCase(), bv = b.value.toLowerCase();
           if (av < bv) {
